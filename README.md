@@ -1,15 +1,15 @@
 # makeGETCallRequest
 Sample project to make GET call request
 
-## What it does?
+# What it does
 1. makeGETRequest.js file will send a GET request using request module
 2. Assertion of response code and specific node value from the body is done
 
-## Pre-requisites
+# Pre-requisites
 1. Node - v8.9.1
 2. NPM - 6.4.1
 
-## Steps to do
+# Steps to do
 1. Clone the project
 2. Go to location of the project
 3. Run the js file
