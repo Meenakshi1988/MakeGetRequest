@@ -23,6 +23,5 @@ node makeGETRequest.js
 ```sh
 npm i
 ```
-
 npm run test
 ```
