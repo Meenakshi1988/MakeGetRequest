@@ -24,6 +24,5 @@ node makeGETRequest.js
 npm i
 ```
 
-```sh
 npm run test
 ```
